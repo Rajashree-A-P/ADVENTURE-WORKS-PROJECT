@@ -138,7 +138,7 @@ Customer Insights
 
 📌 DAX Measures Used
 
-```DAX
+
 Total Customers = DISTINCTCOUNT('Sales Data'[Customer Key])
 
 TOTAL RETURNS = COUNT('Returns Data'[Quantity returned])
@@ -147,5 +147,4 @@ Return Rate = [TOTAL RETURNS] / [TOTAL SALES]
 
 Total Profit = [Total Revenue] - [Total Cost]
 
-ADVENTURE WORKS.pbix → Power BI Dashboard
-ADVENTURE WORKS PPT.pptx → Project Presentation
+
